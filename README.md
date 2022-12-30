@@ -1,2 +1,2 @@
 # ADO.NET-CRUD
- Teach_Qualifications_App
+This is a Teacher Qualifications CRUD Application using ADO.NET.
